@@ -1,4 +1,10 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "\\.git",
+    "\\.git\\info",
+    "\\.git\\logs",
+    "\\.git\\refs",
+    "\\Local settings (.vs)"
+  ],
   "PreviewInSolutionExplorer": false
 }
